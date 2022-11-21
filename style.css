@@ -1,0 +1,12 @@
+body{
+    margin: 0 auto;
+    display: flex;
+}
+.pai{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 400px;
+    background-color: rgb(83, 27, 27);
+}
